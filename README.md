@@ -20,14 +20,19 @@
 ## 사전 EDA
    ### 1. 포천시 지역화폐 충전, 소비 데이터
    #### 사용자 수 기준 성별 비교
-   <img src = https://user-images.githubusercontent.com/54710010/169965619-18ce560c-e686-45cc-b2bc-7203232203e2.png", width=200, height=150>
+   <img src="https://user-images.githubusercontent.com/54710010/169965619-18ce560c-e686-45cc-b2bc-7203232203e2.png" width="300" height="250"/>
+   
    #### 사용자 수 기준 연령대 비교
-   ![image](https://user-images.githubusercontent.com/54710010/169965724-9213136e-96d8-45cc-9076-8bfdc4652a2d.png)
+   <img src="https://user-images.githubusercontent.com/54710010/169965724-9213136e-96d8-45cc-9076-8bfdc4652a2d.png" width="300" height="250"/>
+   
    #### 사용자 수 기준 지역별 비교
-   ![image](https://user-images.githubusercontent.com/54710010/169965743-f2af9a3a-9aff-45f5-aced-858758422fb4.png)
+   <img src="https://user-images.githubusercontent.com/54710010/169967331-7b554fcc-300b-465f-b924-11ecaaa3b06c.png" width="300" height="250">
+   
    #### 일반 발행, 일반 정책 발행, 긴급 정책 발행(코로나) 연령대별 발행 건수 비교
-   ![image](https://user-images.githubusercontent.com/54710010/169965768-5f0cae8d-54e4-4011-b372-7cea66492779.png)
-   ![image](https://user-images.githubusercontent.com/54710010/169965795-0fc8ecce-f52a-491a-8dbf-fc299fe86625.png)
-   ![image](https://user-images.githubusercontent.com/54710010/169965804-4552cf4d-9d34-4832-9f78-db5f5922a364.png)
-
-
+   <div>
+   <img src="https://user-images.githubusercontent.com/54710010/169965768-5f0cae8d-54e4-4011-b372-7cea66492779.png" width="300" height="200"/>
+  <span>&nbsp</span>
+   <img src="https://user-images.githubusercontent.com/54710010/169965795-0fc8ecce-f52a-491a-8dbf-fc299fe86625.png" width="300" height="200"/>
+  <span>&nbsp</span>
+   <img src="https://user-images.githubusercontent.com/54710010/169965804-4552cf4d-9d34-4832-9f78-db5f5922a364.png" width="300" height="200"/>
+  </div>
