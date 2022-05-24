@@ -20,7 +20,7 @@
 ## 사전 EDA
    ### 1. 포천시 지역화폐 충전, 소비 데이터
    #### 사용자 수 기준 성별 비교
-   ![image](https://user-images.githubusercontent.com/54710010/169965619-18ce560c-e686-45cc-b2bc-7203232203e2.png)
+   <img src = https://user-images.githubusercontent.com/54710010/169965619-18ce560c-e686-45cc-b2bc-7203232203e2.png", width=200, height=150>
    #### 사용자 수 기준 연령대 비교
    ![image](https://user-images.githubusercontent.com/54710010/169965724-9213136e-96d8-45cc-9076-8bfdc4652a2d.png)
    #### 사용자 수 기준 지역별 비교
