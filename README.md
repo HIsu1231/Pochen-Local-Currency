@@ -25,9 +25,6 @@
    #### 사용자 수 기준 연령대 비교
    <img src="https://user-images.githubusercontent.com/54710010/169965724-9213136e-96d8-45cc-9076-8bfdc4652a2d.png" width="300" height="250"/>
    
-   #### 사용자 수 기준 지역별 비교
-   <img src="https://user-images.githubusercontent.com/54710010/169967331-7b554fcc-300b-465f-b924-11ecaaa3b06c.png" width="300" height="250">
-   
    #### 일반 발행, 일반 정책 발행, 긴급 정책 발행(코로나) 연령대별 발행 건수 비교
    <div>
    <img src="https://user-images.githubusercontent.com/54710010/169965768-5f0cae8d-54e4-4011-b372-7cea66492779.png" width="300" height="200"/>
